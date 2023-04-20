@@ -1,6 +1,2 @@
 # Arquitectura-css
-curso de arquictetura CSS de Alura Latam. 
-Instructora: Jeanmarie Quijada
-
-
-
+Trabajo realizado por Erika Fragomeni en el curso de arquictetura CSS de Alura Latam. 
